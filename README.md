@@ -25,12 +25,12 @@ Also found in [bom.csv](./bom.csv).
 
 | Item                                                  | Price per unit                      | Nr of units | Total price | Link                                               |
 | ----------------------------------------------------- | ----------------------------------- | ----------- | ----------- | -------------------------------------------------- |
-| PCB                                                   |                                     | 1           | 10$         | -                                                  |
+| PCB                                                   |                                     | 1           | 20$         | -                                                  |
 | 2x7 2.54mm pin header (J1 breakout board)             | ~$0.20-0.39                         | 1           | ~$0.20-0.39 | https://www.aliexpress.com/item/4000186187780.html |
-| 3-pin flying-lead connector (JST-PH or Dupont header) | *(verify against stock on hand)*    | 1           | -           | -                                                  |
-| MD0/MD1 ID resistors, 0603                            | *(verify against your distributor)* | 2           | -           | -                                                  |
-| USB-C cable (to phone/laptop/SBC)                     | *(common item, verify local price)* | 1           | -           | -                                                  |
-| **Total**                                             |                                     |             | 10$         |                                                    |
+| 3-pin flying-lead connector (JST-PH or Dupont header) |     -                               | 1           | -           | -                                                  |
+| MD0/MD1 ID resistors, 0603                            |      -                              | 2           | -           | -                                                  |
+| USB-C cable (to phone/laptop/SBC)                     |       1$                            | 1           | -           | -                                                  |
+| **Total**                                             |                                     |             | 22$         |                                                    |
 
 ## Credits
 
