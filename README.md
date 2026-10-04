@@ -11,15 +11,14 @@ Key features:
 
 ## PCB
 
-This module reuses the PCB from [CoretechR/DIY-Portrait-Mode-Gamepad](https://github.com/CoretechR/DIY-Portrait-Mode-Gamepad) and modifies it
-![[Pasted image 20261001230625.png]]
-
+![PCB](./images/PCB.png)
 ## Schematic
+![Schematic](./images/Schematic1.png)
+![Schematic](./images/Schematic2.png)
 
-![[Pasted image 20261001230639.png]]![[Pasted image 20261001230659.png]]
+
 ## 3D Case
-
-![[Pasted image 20261001230004.png]]
+![Case](./images/3Dmodel.png)
 ## Bill of Materials (excluding console)
 
 Also found in [bom.csv](./bom.csv).
