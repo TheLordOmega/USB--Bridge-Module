@@ -10,7 +10,7 @@ Key features:
   from-scratch board).
 
 ## PCB
-
+for the PCB, i used the DIY-Portrait-mode-Gamepad as a reference but eavily modified it to fit my needs
 ![PCB](./images/PCB.png)
 ## Schematic
 ![Schematic](./images/Schematic1.png)
